@@ -1,4 +1,4 @@
-辽宁,#genre#
+CCTV高清,#genre#
 CCTV-1高清,http://113.236.18.28:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2高清,http://113.236.18.28:9901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3高清,http://113.236.18.28:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
